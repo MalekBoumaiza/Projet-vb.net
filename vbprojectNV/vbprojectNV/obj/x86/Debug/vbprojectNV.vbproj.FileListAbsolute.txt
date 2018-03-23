@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\bin\Debug\vbprojectNV.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\bin\Debug\vbprojectNV.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\bin\Debug\vbprojectNV.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\bin\Debug\MySql.Data.DLL
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\bin\Debug\MySql.Data.Entity.dll
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.Form2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.Form3.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\vbprojectNV\vbprojectNV\obj\x86\Debug\vbprojectNV.Form4.resources
